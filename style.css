@@ -1,0 +1,24 @@
+body{
+    background-color:#FFFFFF
+}
+td{
+    text-align: center;
+}
+footer{
+    padding:10px
+}
+.h{
+    width: 110px;
+    background: #EEEEEE;
+    border-radius: 3px;
+    border-width: 1px;
+}
+.e{
+    width:300px ;
+}
+.f{
+    width: 75px;
+    background: #EEEEEE;
+    border-width: 1px;
+    border-radius: 3px
+}
