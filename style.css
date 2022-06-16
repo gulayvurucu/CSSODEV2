@@ -1,21 +1,18 @@
 body{
     background-color:#FFFFFF
 }
-td{
-    text-align: center;
-}
-footer{
-    padding:10px
-}
+/*google search and I'm feeling lucky */
 .h{
     width: 110px;
     background: #EEEEEE;
     border-radius: 3px;
     border-width: 1px;
 }
+/*arama kutusu biçim*/
 .e{
     width:300px ;
 }
+/*subscribe */
 .f{
     width: 75px;
     background: #EEEEEE;
